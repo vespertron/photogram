@@ -39,6 +39,9 @@ group :development, :test do
   # Adds support for Capybara system testing and selenium driver
   gem 'capybara', '~> 2.13'
   gem 'selenium-webdriver'
+  gem 'haml', '~> 5.0.4'
+  gem 'simple_form', '~> 3.5.0'
+  gem 'bootstrap-sass', '~> 3.3.7'
 end
 
 group :development do
