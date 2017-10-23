@@ -43,6 +43,8 @@ group :development, :test do
   gem 'simple_form', '~> 3.5.0'
   gem 'bootstrap-sass', '~> 3.3.7'
   gem 'devise', '~> 4.3'
+  gem "paperclip", "~> 5.0.0"
+  gem 'masonry-rails', '~> 0.2.4'
 end
 
 group :development do
